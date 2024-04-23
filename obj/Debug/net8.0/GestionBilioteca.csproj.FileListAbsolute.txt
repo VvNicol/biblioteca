@@ -1,0 +1,15 @@
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\bin\Debug\net8.0\GestionBilioteca.exe
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\bin\Debug\net8.0\GestionBilioteca.deps.json
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\bin\Debug\net8.0\GestionBilioteca.runtimeconfig.json
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\bin\Debug\net8.0\GestionBilioteca.dll
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\bin\Debug\net8.0\GestionBilioteca.pdb
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\obj\Debug\net8.0\GestionBilioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\obj\Debug\net8.0\GestionBilioteca.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\obj\Debug\net8.0\GestionBilioteca.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\obj\Debug\net8.0\GestionBilioteca.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\obj\Debug\net8.0\GestionBilioteca.sourcelink.json
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\obj\Debug\net8.0\GestionBilioteca.dll
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\obj\Debug\net8.0\refint\GestionBilioteca.dll
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\obj\Debug\net8.0\GestionBilioteca.pdb
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\obj\Debug\net8.0\GestionBilioteca.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\Source\Repos\VvNicol\serviciobiblioteca\obj\Debug\net8.0\ref\GestionBilioteca.dll
